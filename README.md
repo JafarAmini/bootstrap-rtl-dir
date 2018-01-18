@@ -5,14 +5,13 @@ Automaticaly detects your dir and changes your view Due to the html direction
 <br/>
 if you have:
 <br/>
-&lt;html&gt; or &lt;html dir="ltr"&gt;
-</xmp>
+&lt;html&gt; ... &lt;/html&gt; <b>or</b> &lt;html dir="ltr"&gt; ... &lt;/html&gt;
 <br/>
-  <b>bootstrap-rtl-dir</b> has no effect on your page and standard bootstrap is doing all things
+  then <b>bootstrap-rtl-dir</b> has no effect on your page and standard bootstrap is doing all things
 <br/>
 if you have:
 <br/>
-<code><html dir="rtl"></code>
+&lt;html dir="rtl"&gt; ... &lt;/html&gt;
 <br/>
   <b>bootstrap-rtl-dir</b> effects on your page and you have a page with bootstrap rtl
 <h1>How To Use</h1>
