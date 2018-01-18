@@ -5,7 +5,9 @@ Automaticaly detects your dir and changes your view Due to the html direction
 <br/>
 if you have:
 <br/>
+<xmp>
 <code><html> or <html dir="ltr"></code>
+</xmp>
 <br/>
   <b>bootstrap-rtl</b>-dir has no effect on your page and standard bootstrap is doing all things
 <br/>
