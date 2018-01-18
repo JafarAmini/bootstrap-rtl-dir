@@ -3,7 +3,7 @@ bootstrap rtl that is dir aware
 <br/>
 Automaticaly detects your dir and changes your view Due to the html direction
 <br/>
-<h2>if you have:<h2>
+<h2>if you have:</h2>
 <br/>
 &lt;html&gt; 
 <br/>. . .<br/> &lt;/html&gt; <b>or</b> &lt;html dir="ltr"&gt;<br/>. . .<br/> &lt;/html&gt;
