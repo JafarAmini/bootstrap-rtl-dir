@@ -1142,7 +1142,7 @@ html[dir="rtl"] .navbar-toggle {
   html[dir="rtl"] .navbar-nav {
     float: right;
   }
-  .navbar-nav > li {
+  html[dir="rtl"] .navbar-nav > li {
     float: right;
   }
 }
