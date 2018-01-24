@@ -1,5 +1,5 @@
 # bootstrap-rtl-dir
-bootstrap rtl that is dir aware
+bootstrap rtl that is dir aware For bootstrap 3.3.7
 <br/>
 Automaticaly detects your dir and changes your view Due to the html direction
 <br/>
